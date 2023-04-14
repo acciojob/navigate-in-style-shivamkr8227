@@ -3,9 +3,12 @@
 	background-color:rgb(211,211,211);
 	padding:10px;
 }
-
+ul{
+	display:flex;
+}
 li{
 	display:inline-block;
 	margin:1re;
 	list-style:none;
+	margin-left:16px;
 }
